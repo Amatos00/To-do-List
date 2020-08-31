@@ -1,0 +1,10 @@
+body {
+	color: black;
+}
+.rem {
+	margin-left: 5px;
+	background-color: white;
+	color: blue;
+	border: none;
+	cursor: pointer
+}
